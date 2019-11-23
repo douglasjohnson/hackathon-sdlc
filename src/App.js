@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        Hackathon SDLC
+        Hackathon SDLC v1
       </header>
     </div>
   );
